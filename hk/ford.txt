@@ -1,0 +1,4 @@
+https://habr.com/ru/post/566248/
+https://algorithms.tutorialhorizon.com/max-flow-problem-ford-fulkerson-algorithm/
+https://www.programiz.com/dsa/ford-fulkerson-algorithm
+https://habr.com/ru/post/130531/
